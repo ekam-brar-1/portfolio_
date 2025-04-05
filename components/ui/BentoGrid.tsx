@@ -154,6 +154,8 @@ export const BentoGridItem = ({
                 <a
                   href="https://drive.google.com/file/d/1AHGfnpD__geEidlzs2nfswTxkXW0yt3K/view"
                   target="_blank"
+                  rel="noopener noreferrer"
+                  title="View Resume"
                 >
                   <div className="z-10">
                     <LitupButton name="View Resume" />
