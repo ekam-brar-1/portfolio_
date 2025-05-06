@@ -78,7 +78,7 @@ export const navItems = [
     des: "Rolla is a customizable shopping website that allows users to personalize their online shopping experience with dynamic themes and product configurations.",
     img: "/rolla.png", 
     iconLists: ["/react.png", "/tailwind.png", "/nodejs.png", "/mongodb.png", "/aws.png"],
-    link: "https://github.com/ekam-brar-1/metaverse-frontend", 
+    link: "https://github.com/Harjap-Sngh/Notes-App", 
   },
   {
     id: 2,
