@@ -102,7 +102,7 @@ export const navItems = [
     des: "Hands On Touring is a dynamic travel and tour booking platform that offers interactive itineraries, real-time updates, and a seamless booking experience for travelers.",
     img: "/hands.png", // Replace with your actual image path
     iconLists: ["/react.png", "/nodejs.png", "/mongodb.png", "/supa.jpeg"],
-    link: "https://github.com/ekam-brar-1/expense-tracker", // Update with your project URL
+    link: "https://github.com/ekam-brar-1/prototype", // Update with your project URL
   },
 ];
 
