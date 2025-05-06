@@ -182,7 +182,7 @@ export const navItems = [
            thumbnail: "/meta.png",
           credentialUrl: "https://www.coursera.org/account/accomplishments/specialization/certificate/7LH9VUHG14IUhttps://learn.mongodb.com/c/3KBSrml3RE2DtghhGlGqUQ", 
           
-      }
+      },
   {
       
     id: 1,
@@ -243,6 +243,16 @@ export const navItems = [
     skills: ["Containerization", "Docker Products"],
     thumbnail: "/dock.svg",
     credentialUrl: "https://www.linkedin.com/learning/certificates/b6dfc23931de582eec204c5297e53b83d2a289d448a7e94bf0b6a50a862ccc76?u=2245281",
+  },
+        {
+    id: 7,
+    title: "Generative AI: Prompt Engineering Basics",
+    issuer: "IBM",
+    issued: "Aug 2024",
+    credentialId: "", 
+    skills: ["Gen AI"],
+    thumbnail: "ai.png",
+    credentialUrl: "https://www.coursera.org/account/accomplishments/verify/IN3JE7YOAGJB",
   },
 ];
 
