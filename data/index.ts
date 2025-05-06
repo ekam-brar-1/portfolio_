@@ -1,6 +1,6 @@
 export const navItems = [
     { name: "About", link: "#about" },
-    { name: "Resume", link: "https://drive.google.com/file/d/1AHGfnpD__geEidlzs2nfswTxkXW0yt3K/view" },
+    { name: "Resume", link: "https://drive.google.com/file/d/1K-4-biTJrJWOeSGVVMmny3hnNWlWAdbS/view?usp=sharing" },
     { name: "Projects", link: "#projects" },
 
     
@@ -102,7 +102,7 @@ export const navItems = [
     des: "Hands On Touring is a dynamic travel and tour booking platform that offers interactive itineraries, real-time updates, and a seamless booking experience for travelers.",
     img: "/hands.png", // Replace with your actual image path
     iconLists: ["/react.png", "/nodejs.png", "/mongodb.png", "/supa.jpeg"],
-    link: "https://github.com/ekam-brar-1/expense-tracker", // Update with your project URL
+    link: "https://github.com/ekam-brar-1/prototype", // Update with your project URL
   },
 ];
 
@@ -174,7 +174,17 @@ export const navItems = [
   
  
   export const workExperience = [
+      {
+          id: 0,
+          title: "Meta Frontend-Developer Professional Certificate",
+              issuer: "Meta",
+          skills:["JavaScript"," React.js "," Version Control "," Front-End Development "," User Interface Design "," Cross-browser Compatibility "," Performance Optimization ","Testing"," Application Programming Interfaces (API)"],
+           thumbnail: "/meta.png",
+          credentialUrl: "https://www.coursera.org/account/accomplishments/specialization/certificate/7LH9VUHG14IUhttps://learn.mongodb.com/c/3KBSrml3RE2DtghhGlGqUQ", 
+          
+      },
   {
+      
     id: 1,
     title: "MongoDB Node.js Developer Path",
     issuer: "MongoDB",
@@ -233,6 +243,16 @@ export const navItems = [
     skills: ["Containerization", "Docker Products"],
     thumbnail: "/dock.svg",
     credentialUrl: "https://www.linkedin.com/learning/certificates/b6dfc23931de582eec204c5297e53b83d2a289d448a7e94bf0b6a50a862ccc76?u=2245281",
+  },
+        {
+    id: 7,
+    title: "Generative AI: Prompt Engineering Basics",
+    issuer: "IBM",
+    issued: "Aug 2024",
+    credentialId: "", 
+    skills: ["Gen AI"],
+    thumbnail: "ai.png",
+    credentialUrl: "https://www.coursera.org/account/accomplishments/verify/IN3JE7YOAGJB",
   },
 ];
 
