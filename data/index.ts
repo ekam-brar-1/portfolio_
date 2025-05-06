@@ -78,7 +78,7 @@ export const navItems = [
     des: "Rolla is a customizable shopping website that allows users to personalize their online shopping experience with dynamic themes and product configurations.",
     img: "/rolla.png", 
     iconLists: ["/react.png", "/tailwind.png", "/nodejs.png", "/mongodb.png", "/aws.png"],
-    link: "https://github.com/Harjap-Sngh/Notes-App", 
+    link: "https://github.com/ekam-brar-1/rolla-frontend", 
   },
   {
     id: 2,
@@ -86,7 +86,7 @@ export const navItems = [
     des: "Cypress is a Next.js-powered Notion clone that uses Supabase, Drizzle ORM, and Socket.io to deliver real-time collaborative note-taking and organization.",
     img: "/notion.jpeg", 
     iconLists: ["/nextjs.png", "/socket.png", "/drizzle.png", "tailwind/.png"],
-    link: "https://github.com/ekam-brar-1", 
+    link: "https://github.com/Harjap-Sngh/Notes-App", 
   },
   {
     id: 3,
