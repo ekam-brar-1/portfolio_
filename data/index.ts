@@ -174,7 +174,17 @@ export const navItems = [
   
  
   export const workExperience = [
+      {
+          id: 0,
+          title: "Meta Frontend-Developer Professional Certificate",
+              issuer: "Meta",
+          skills:["JavaScript"," React.js "," Version Control "," Front-End Development "," User Interface Design "," Cross-browser Compatibility "," Performance Optimization ","Testing"," Application Programming Interfaces (API)"],
+           thumbnail: "/meta.png",
+          credentialUrl: "https://www.coursera.org/account/accomplishments/specialization/certificate/7LH9VUHG14IUhttps://learn.mongodb.com/c/3KBSrml3RE2DtghhGlGqUQ", 
+          
+      }
   {
+      
     id: 1,
     title: "MongoDB Node.js Developer Path",
     issuer: "MongoDB",
