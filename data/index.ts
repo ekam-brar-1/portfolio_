@@ -100,9 +100,9 @@ export const navItems = [
     id: 4,
     title: "Hands On Touring",
     des: "Hands On Touring is a dynamic travel and tour booking platform that offers interactive itineraries, real-time updates, and a seamless booking experience for travelers.",
-    img: "/hands.png", // Replace with your actual image path
+    img: "/hands.png", 
     iconLists: ["/react.png", "/nodejs.png", "/mongodb.png", "/supa.jpeg"],
-    link: "https://github.com/ekam-brar-1/prototype", // Update with your project URL
+    link: "https://github.com/ekam-brar-1/prototype", 
   },
 ];
 
@@ -180,7 +180,7 @@ export const navItems = [
               issuer: "Meta",
           skills:["JavaScript"," React.js "," Version Control "," Front-End Development "," User Interface Design "," Cross-browser Compatibility "," Performance Optimization ","Testing"," Application Programming Interfaces (API)"],
            thumbnail: "/meta1.png",
-          credentialUrl: "https://www.coursera.org/account/accomplishments/specialization/certificate/7LH9VUHG14IUhttps://learn.mongodb.com/c/3KBSrml3RE2DtghhGlGqUQ", 
+          credentialUrl: "https://www.coursera.org/account/accomplishments/specialization/certificate/7LH9VUHG14IU", 
           
       },
   {
