@@ -85,7 +85,7 @@ export const navItems = [
     title: "Cypress: Take notes collaboratively",
     des: "Cypress is a Next.js-powered Notion clone that uses Supabase, Drizzle ORM, and Socket.io to deliver real-time collaborative note-taking and organization.",
     img: "/notion.jpeg", 
-    iconLists: ["/nextjs.png", "/socket.png", "/drizzle.png", "tailwind/.png"],
+    iconLists: ["/nextjs.png", "/socket.png", "/drizzle.png", "/tailwind.png"],
     link: "https://github.com/Harjap-Sngh/Notes-App", 
   },
   {
