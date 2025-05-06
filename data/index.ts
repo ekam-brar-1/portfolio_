@@ -82,19 +82,19 @@ export const navItems = [
   },
   {
     id: 2,
-    title: "2D Metaverse-Chat",
-    des: "2D Metaverse-Chat is an innovative chat platform set in a 2D virtual environment, enabling immersive social interactions and community engagement.",
+    title: "Cypress: Take notes collaboratively",
+    des: "Cypress is a Next.js-powered Notion clone that uses Supabase, Drizzle ORM, and Socket.io to deliver real-time collaborative note-taking and organization.",
     img: "/meta.png", 
-    iconLists: ["/react.png", "/socket.png", "/tailwind.png", "/nodejs.png"],
+    iconLists: ["/nextjs.png", "/socket.png", "/drizzle.png", "tailwind/.png"],
     link: "https://github.com/ekam-brar-1", 
   },
   {
     id: 3,
     title: "AI Expense Tracker",
     des: "The AI Expense Tracker leverages artificial intelligence to categorize and analyze expenses, providing insights and predictive budgeting to simplify financial management.",
-    img: "/spendsay.png", // Replace with your actual image path
+    img: "/spendsay.png", 
     iconLists: ["/expo.png", "/ai.png", "/supa.jpeg"],
-    link: "https://github.com/ekam-brar-1/expense-tracker", // Update with your project URL
+    link: "https://github.com/ekam-brar-1/expense-tracker", 
   },
   {
     id: 4,
@@ -179,7 +179,7 @@ export const navItems = [
           title: "Meta Frontend-Developer Professional Certificate",
               issuer: "Meta",
           skills:["JavaScript"," React.js "," Version Control "," Front-End Development "," User Interface Design "," Cross-browser Compatibility "," Performance Optimization ","Testing"," Application Programming Interfaces (API)"],
-           thumbnail: "/meta.png",
+           thumbnail: "/meta1.png",
           credentialUrl: "https://www.coursera.org/account/accomplishments/specialization/certificate/7LH9VUHG14IUhttps://learn.mongodb.com/c/3KBSrml3RE2DtghhGlGqUQ", 
           
       },
