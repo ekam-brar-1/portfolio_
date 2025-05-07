@@ -1,11 +1,13 @@
+"use client";
 import React from "react";
+
 
 import { workExperience } from "@/data";
 import { Button } from "./ui/MovingBorders";
 
-const Experience = () => {
+const Certifications = () => {
   return (
-    <div className="py-20 w-full">
+    <div className="py-20 w-full" id="certifications">
       <h1 className="heading">
         My <span className="text-purple"> Certifications</span>
       </h1>
@@ -53,4 +55,4 @@ const Experience = () => {
   );
 };
 
-export default Experience;
+export default Certifications;

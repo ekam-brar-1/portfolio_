@@ -98,7 +98,7 @@ const CurrentWork = () => {
             </li>
             <li className="flex items-center gap-3 lg:justify-start justify-center">
               {/* <div className="w-10 h-10 rounded-full bg-purple/20 flex items-center justify-center"> */}
-                <img src="/nodejs.png" alt="Map" className="w-10 h-10 rounded-full"
+                <img src="/map.png" alt="Map" className="w-10 h-10 rounded-full"
                 onError={(e) => {
                   e.currentTarget.src = "/icons/map.svg"; // Fallback to a generic icon
                 }}/>
@@ -107,7 +107,7 @@ const CurrentWork = () => {
             </li>
           </ul>
           
-          <div className="m-4">
+          <div className="m-8">
             <Link href="#contact">
               <MagicButton
                 title="Contact me about this project"
