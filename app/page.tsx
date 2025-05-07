@@ -1,4 +1,5 @@
 import Approach from "@/components/Approach";
+import CurrentWork from "@/components/CurrentWork";
 
 import Experience from "@/components/Experience";
 import Footer from "@/components/Footer";
@@ -30,7 +31,7 @@ export default function Home() {
 
         {/* Uncomment Client if required */}
   
-
+<CurrentWork />
         {/* Experience Section */}
         <Experience />
 
