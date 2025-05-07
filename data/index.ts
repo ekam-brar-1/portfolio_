@@ -85,7 +85,7 @@ export const navItems = [
     title: "Cypress: Take notes collaboratively",
     des: "Cypress is a Next.js-powered Notion clone that uses Supabase, Drizzle ORM, and Socket.io to deliver real-time collaborative note-taking and organization.",
     img: "/notion.jpeg", 
-    iconLists: ["/nextjs.png", "/socket.png", "/drizzle.png", "/tailwind.png"],
+    iconLists: ["/nextjs.png","/tailwind.png", "/socket.png", "/drizzle.png"],
     link: "https://github.com/Harjap-Sngh/Notes-App", 
   },
   {
@@ -175,11 +175,13 @@ export const navItems = [
  
   export const workExperience = [
       {
-          id: 0,
+          id: 8,
           title: "Meta Frontend-Developer Professional Certificate",
               issuer: "Meta",
+          issued: "Sep 2024",
+      
           skills:["JavaScript"," React.js "," Version Control "," Front-End Development "," User Interface Design "," Cross-browser Compatibility "," Performance Optimization ","Testing"," Application Programming Interfaces (API)"],
-           thumbnail: "/meta1.png",
+           thumbnail: "/meta4.png",
           credentialUrl: "https://www.coursera.org/account/accomplishments/specialization/certificate/7LH9VUHG14IU", 
           
       },
@@ -191,7 +193,7 @@ export const navItems = [
     issued: "Feb 2025",
     credentialId: "MDBd0ygy30fb1",
     skills: ["Database Management System (DBMS)"],
-    thumbnail: "/mongodb.png", // update with your image path
+    thumbnail: "/mongodb.png", 
     credentialUrl: "https://learn.mongodb.com/c/3KBSrml3RE2DtghhGlGqUQ", // link to the credential details if available
   },
   {
